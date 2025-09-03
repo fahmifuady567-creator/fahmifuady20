@@ -78,3 +78,4 @@ Kelas : 2D TRPL
 - mengatur elemen ke dalam listview untuk mendukung resolusi gambar menjadi kecil  
 - [Hasil Praktikum 3: Image Widget](images/image-widget.png)
 
+"# fahmifuady20" 
