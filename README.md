@@ -50,7 +50,7 @@ Kelas : 2D TRPL
 - mengisi kode dengan nama dan juga nim di text title
 - mengidentifikasi layout diagram dengan elemen baris dan kolom 
 - mengimplementasi title row dengan menambahkan kode metode build seperti column
-- [Hasil Praktikum 1](images/hello-world.png)
+- [Hasil Praktikum 1](images/main_baru.png)
 
 
 ## Praktikum 2: implementasi button row
@@ -58,7 +58,7 @@ Kelas : 2D TRPL
 - menambahkan ikon ke dalam kolom
 -menambahkan button section ke body
 - tambah variable button section ke body
-- [Hasil Praktikum 2](images/logo-poliwangi.png)
+- [Hasil Praktikum 2](images/column_baru.png)
 
 
 ## Praktikum 3: implementasi text section
@@ -68,7 +68,7 @@ Kelas : 2D TRPL
 - menambahkan variable ke dalam section ke body
 - menata kata sesuai yang diinginkan 
 - Kemudian tambahkan variable ke body yang telah dibuat 
-
+- [Hasil Praktikum 3](images/text_baru.png)
 
 ## Praktikum 4: siapkan aset gambar 
 - menyiapkan gambar yang akan dimasukan ke dalam file assets
@@ -76,7 +76,7 @@ Kelas : 2D TRPL
 - set nama file kedalam pubspec.yaml
 - tambahkan assets gambar ke body
 - mengatur elemen ke dalam listview untuk mendukung resolusi gambar menjadi kecil  
-- [Hasil Praktikum 3: Image Widget](images/image-widget.png)
+- [Hasil Praktikum 3: Image Widget](images/gambar_baru.png)
 
 "# fahmifuady20" 
 "# projeck_flutter" 
