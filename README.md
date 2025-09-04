@@ -76,7 +76,7 @@ Kelas : 2D TRPL
 - set nama file kedalam pubspec.yaml
 - tambahkan assets gambar ke body
 - mengatur elemen ke dalam listview untuk mendukung resolusi gambar menjadi kecil  
-- [Hasil Praktikum 3: Image Widget](images/gambar_baru.png)
+- [Hasil Praktikum 4](images/gambar_baru.png)
 
 "# fahmifuady20" 
 "# projeck_flutter" 
